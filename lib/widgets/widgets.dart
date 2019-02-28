@@ -1,4 +1,4 @@
 export './product_manager.dart';
 export './products.dart';
-export './text_control.dart';
-export './animal_output.dart';
+export './assign1/text_control.dart';
+export './assign1/animal_output.dart';

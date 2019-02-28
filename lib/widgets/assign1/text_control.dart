@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_course/models/animal.dart';
+import 'package:flutter_course/models/models.dart';
 import 'package:flutter_course/widgets/widgets.dart';
 
 class TextControl extends StatefulWidget {
